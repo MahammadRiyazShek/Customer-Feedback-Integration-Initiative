@@ -39,8 +39,8 @@ We welcome contributions from team members who are passionate about improving cu
 
 ## License
 
-This project is licensed under the [INSERT LICENSE HERE] license. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the license. See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 
-For any questions, suggestions, or feedback regarding this initiative, please contact [INSERT CONTACT INFORMATION].
+For any questions, suggestions, or feedback regarding this initiative, please contact [shekmahammadriyaz@gmail.com].
