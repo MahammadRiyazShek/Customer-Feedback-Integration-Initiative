@@ -39,7 +39,7 @@ We welcome contributions from team members who are passionate about improving cu
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT license.
 
 ## Contact
 
