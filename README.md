@@ -32,6 +32,7 @@ The following skills are essential for the successful implementation of this ini
 - **Customer communication**: Ability to effectively communicate with customers to gather feedback, understand their requirements, and validate proposed improvements.
 - **Data analysis**: Proficiency in analyzing feedback data to identify trends, patterns, and areas for improvement.
 - **Continuous improvement mindset**: A commitment to continuously improve products/services based on customer feedback and evolving needs.
+- **XML Authoring**
 
 ## Contributing
 
